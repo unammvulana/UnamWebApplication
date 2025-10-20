@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnamWebApplication", "UnamWebApplication\UnamWebApplication.csproj", "{875DD5E3-BAFD-438F-AD9C-518DC26DD882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875DD5E3-BAFD-438F-AD9C-518DC26DD882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875DD5E3-BAFD-438F-AD9C-518DC26DD882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875DD5E3-BAFD-438F-AD9C-518DC26DD882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875DD5E3-BAFD-438F-AD9C-518DC26DD882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CDED1C3-5A49-4AAE-B521-CCAA1398AE0C}
+	EndGlobalSection
+EndGlobal
