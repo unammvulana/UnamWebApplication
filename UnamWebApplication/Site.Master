@@ -127,6 +127,7 @@
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Academic Manager Page">Academic Manager</a></li>
                            <li class="nav-item"><a class="nav-link" runat="server" href="~/About">About</a></li>
                            <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Contact</a></li>
+                          <li class="nav-item"><a class="nav-link" runat="server" href="~/HR-Manager">HR-Manager</a></li>
                     </ul>
                 </div>
             </div>

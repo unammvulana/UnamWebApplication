@@ -122,6 +122,7 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="HR-Manager.aspx" />
     <Content Include="Lecture_Page.aspx" />
     <Content Include="Programme-CO-Ordinator Page.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -218,6 +219,13 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="HR-Manager.aspx.cs">
+      <DependentUpon>HR-Manager.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HR-Manager.aspx.designer.cs">
+      <DependentUpon>HR-Manager.aspx</DependentUpon>
     </Compile>
     <Compile Include="Lecture_Page.aspx.cs">
       <DependentUpon>Lecture_Page.aspx</DependentUpon>
